@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faris Ahmad Nasir</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
-<p align="center"></p><img scr="mm.gif"/></p>
+<p align=center>
+ <img align='center' src="mm.gif" width="430"> </p>
 
 - 🔭 I’m currently working on **Python,QT**
 
