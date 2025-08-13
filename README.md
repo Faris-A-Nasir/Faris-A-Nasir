@@ -3,13 +3,13 @@
 <p align=center>
  <img align='center' src="mm.gif" width="430"> </p>
 
-- 🔭 I’m currently working on **Python,QT**
+- 🔭 I’m currently working on **MERN/Full Stack Developer/ UI UX Developer**
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Flutter**
 
 - 📝 I regularly write articles on <a href="https://medium.com/@farisahmadnasir7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farisahmadnasir7" height="30" width="40" /></a>
 
-- 💬 Ask me about **c++, opp ,data strutures ,Html, js ,css**
+- 💬 Ask me about **React.js, Node.js/Express, MongoDB, Flutter, Figma, c++, opp ,data strutures ,Html, js ,css**
 
 
 <h3 align="left">Connect with me:</h3>
